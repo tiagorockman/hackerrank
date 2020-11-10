@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dDES3FnR5u59pWI9Zj6H94+cATS3JVjm3nwo/l/8APQRakz3INIZpFm/E6iCtA2UYuqiMbLgVv7Ze6sNh7fG1Q==",
+  "dgSpecHash": "RB2EJkSxPnJyPgHjRMV4C/K6iAHmRiNkqMNEvzQAw6dMR++ceuDSbazdG5Egth/k9c5rmLW9YnZrzA8AujyaqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.sousa1\\source\\repos\\ConsoleAPP\\ConsoleAPP.csproj",
+  "projectFilePath": "C:\\Users\\jose.sousa1\\source\\repos\\hackerrank\\C#\\ConsoleAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\jose.sousa1\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",

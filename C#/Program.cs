@@ -11,12 +11,18 @@ namespace ConsoleAPP
         static void Main(string[] args)
         {
 
-            //Anagrama.AnagramaCheck();
-            //Lista.MainLista();
-            //HttpRequests.MainHttpRequest();
-            //ConsolelogComTiposFormatados.MainConsole();
+            // Anagrama.AnagramaCheck();
+            // Lista.MainLista();
+            // HttpRequests.MainHttpRequest();
+            // ConsolelogComTiposFormatados.MainConsole();
             // Efficient_Janitor.MainEfficientJanitor();
-            DictionaryAndMap_Hackerrank.MainDict();
+            // DictionaryAndMap_Hackerrank.MainDict();
+            // Binary_Number.MainBinary();
+            // AbstractAndHeranca.MainHeranca();
+            // Palindrome.MainPalindrome();
+            // GenericArray.MainGenericArray();
+            // Dictionary.MainDictionary();
+            List_Objeto_.MainListObject();
         }
 
     }

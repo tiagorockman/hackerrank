@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose.sousa1\\source\\repos\\ConsoleAPP\\ConsoleAPP.csproj": {}
+    "C:\\Users\\jose.sousa1\\source\\repos\\hackerrank\\C#\\ConsoleAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose.sousa1\\source\\repos\\ConsoleAPP\\ConsoleAPP.csproj": {
+    "C:\\Users\\jose.sousa1\\source\\repos\\hackerrank\\C#\\ConsoleAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose.sousa1\\source\\repos\\ConsoleAPP\\ConsoleAPP.csproj",
+        "projectUniqueName": "C:\\Users\\jose.sousa1\\source\\repos\\hackerrank\\C#\\ConsoleAPP.csproj",
         "projectName": "ConsoleAPP",
-        "projectPath": "C:\\Users\\jose.sousa1\\source\\repos\\ConsoleAPP\\ConsoleAPP.csproj",
+        "projectPath": "C:\\Users\\jose.sousa1\\source\\repos\\hackerrank\\C#\\ConsoleAPP.csproj",
         "packagesPath": "C:\\Users\\jose.sousa1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose.sousa1\\source\\repos\\ConsoleAPP\\obj\\",
+        "outputPath": "C:\\Users\\jose.sousa1\\source\\repos\\hackerrank\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
