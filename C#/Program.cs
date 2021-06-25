@@ -12,7 +12,7 @@ namespace ConsoleAPP
         {
 
             // Anagrama.AnagramaCheck();
-            // Lista.MainLista();
+             Lista.MainLista();
             // HttpRequests.MainHttpRequest();
             // ConsolelogComTiposFormatados.MainConsole();
             // Efficient_Janitor.MainEfficientJanitor();
@@ -22,7 +22,8 @@ namespace ConsoleAPP
             // Palindrome.MainPalindrome();
             // GenericArray.MainGenericArray();
             // Dictionary.MainDictionary();
-            List_Objeto_.MainListObject();
+            //List_Objeto_.MainListObject();
+           // Fibonacci.MainFibonacci();
         }
 
     }

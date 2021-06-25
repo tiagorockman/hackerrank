@@ -10,13 +10,14 @@ namespace ConsoleAPP
 
         public static void MainLista()
         {
-            
+
             List<string> list1 = new List<string> { "doc", "helder", "tac", "turn" };
             List<string> list2 = new List<string> { "dcl", "doc", "tac" };
 
             ListCount(list1, list2);
             ListToString(list1);
             StringToList("Essa é uma lista separada por espaço.");
+            ListOrdened();
         }
     
         public static void ListCount(List<string> list1, List<string> list2)
@@ -43,6 +44,13 @@ namespace ConsoleAPP
             Console.WriteLine("/********** STRING TO LIST *************/");
             List<string> stringered = str.Split(' ').ToList();
             stringered.ForEach(s => Console.WriteLine($"[index]{stringered.IndexOf(s)} - {s}"));
+        }
+
+        private static void ListOrdened()
+        {
+            List<int> lista = new List<int> { 5, 2, 3, 1 };
+            List<int> listaOrdenada = lista.OrderBy(l => l).ToList();
+            listaOrdenada.ForEach(l => Console.WriteLine($"{l}"));
         }
     }
     
