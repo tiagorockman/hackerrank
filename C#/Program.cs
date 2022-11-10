@@ -12,7 +12,7 @@ namespace ConsoleAPP
         {
 
             // Anagrama.AnagramaCheck();
-             Lista.MainLista();
+            // Lista.MainLista();
             // HttpRequests.MainHttpRequest();
             // ConsolelogComTiposFormatados.MainConsole();
             // Efficient_Janitor.MainEfficientJanitor();
@@ -23,7 +23,8 @@ namespace ConsoleAPP
             // GenericArray.MainGenericArray();
             // Dictionary.MainDictionary();
             //List_Objeto_.MainListObject();
-           // Fibonacci.MainFibonacci();
+            // Fibonacci.MainFibonacci();
+            Testes.MainTestes();
         }
 
     }
