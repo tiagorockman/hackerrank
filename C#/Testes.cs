@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ConsoleAPP
 {
@@ -8,10 +6,10 @@ namespace ConsoleAPP
     {
         public static void MainTestes()
         {
-
+           
         }
-        
-
-        
+          
+       
     }
+
 }
