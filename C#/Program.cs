@@ -24,7 +24,9 @@ namespace ConsoleAPP
             // Dictionary.MainDictionary();
             //List_Objeto_.MainListObject();
             // Fibonacci.MainFibonacci();
-            Testes.MainTestes();
+            BaseBallGame_Turin.MainBaseballGame();
+
+           // Testes.MainTestes();
         }
 
     }
